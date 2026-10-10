@@ -1,5 +1,6 @@
 • Supplementary characterization data (SEM images, POM images, UV–Vis spectra, DMA data, tensile
 test data, and additional simulation results). (PDF)
+Note: The red circle in the light actuation experiment video clips is the reference marker used for image processing in MATLAB
 • Movie S1: Light response of all films at a pre-stretch of 100%. (MP4)
 • Movie S2: Light response of P5 film at pre-stretches of 75%, 100%, and 150%. (MP4)
 • Movie S3: Unstretched P5 film under visible light illumination. (MP4)
